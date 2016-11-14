@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E021710B-9DF9-43C2-B5FF-255D53EEBBBA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/ViewController.designer.cs">
+    <Files>
+      <File FileName="Sample/ViewController.cs" Line="21" Column="2" />
+      <File FileName="AutoSuggestText/ApiDefinition.cs" Line="104" Column="39" />
+      <File FileName="Sample/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A6635EF-A4C6-4CDD-808F-84875B84764E" />
+</Properties>
