@@ -4,4 +4,4 @@ Change the Class of UITextView to AutoSuggestText.AREmailAutocompleteTextView wh
 
 ###Output
 
-![](https://github.com/guntidheerajkumar/AutoSuggestTextView/blob/master/Output.gif)
+![](https://github.com/guntidheerajkumar/AutoSuggestTextView/blob/master/AutoSuggestionOutput.gif)
